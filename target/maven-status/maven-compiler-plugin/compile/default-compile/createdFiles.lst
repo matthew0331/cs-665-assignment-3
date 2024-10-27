@@ -1,0 +1,7 @@
+edu\bu\met\cs665\Main.class
+edu\bu\met\cs665\BusinessCustomerEmail.class
+edu\bu\met\cs665\NewCustomerEmail.class
+edu\bu\met\cs665\ReturningCustomerEmail.class
+edu\bu\met\cs665\VIPCustomerEmail.class
+edu\bu\met\cs665\EmailGenerator.class
+edu\bu\met\cs665\FrequentCustomerEmail.class

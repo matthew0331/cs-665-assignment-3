@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\BusinessCustomerEmail.java">
+</file>
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\EmailGenerator.java">
+</file>
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\FrequentCustomerEmail.java">
+</file>
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\Main.java">
+</file>
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\NewCustomerEmail.java">
+</file>
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\ReturningCustomerEmail.java">
+</file>
+<file name="C:\Users\Matthew\Desktop\BU\2024 Fall\cs 665\HW\CS 665 Assignment3 Lingpeng Li\Lingpeng Li HW3 CS665\src\main\java\edu\bu\met\cs665\VIPCustomerEmail.java">
+</file>
+</checkstyle>
